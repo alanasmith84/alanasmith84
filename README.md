@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alanasmith84
-- 👀 I’m interested in cloud architecture and cybery security
+- 👀 I’m interested in cloud architecture and cyber security
 - 📚 I’m currently studying for my Azure Fundamentals certification
 - 👩🏼‍🎓 I am in my final year of my BSc Cyber Security
 - 🧠 I have 15 years B2B & B2C business development experience
